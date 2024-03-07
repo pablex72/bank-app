@@ -13,7 +13,7 @@ Se complió con las funcionalidades requeridas.
 Instalar las dependencias del proyecto:
 npm install
 
-Una vez que todas las dependencias se hayan instalado correctamente, puede iniciar la aplicación ejecutando.
+Una vez que todas las dependencias se hayan instalado correctamente, puede iniciar la aplicación ejecutando:
 npm run dev
 
 Para iniciar un servidor de desarrollo:
