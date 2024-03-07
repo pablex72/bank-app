@@ -15,6 +15,5 @@ npm install
 
 Una vez que todas las dependencias se hayan instalado correctamente, puede iniciar la aplicación ejecutando:
 npm run dev
-
-Para iniciar un servidor de desarrollo:
+Para iniciar el servidor de desarrollo
 
